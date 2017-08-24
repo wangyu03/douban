@@ -1,6 +1,4 @@
 
-## 陕西本初网络科技有限公司前端测试题
-
 <br>
 
 <p align="center">
@@ -10,15 +8,6 @@
 ### 页面无刷新效果(前端路由、数据绑定、JS渲染)
 
 <br>
-
-<p align="center">
-    <img src="https://raw.githubusercontent.com/jeneser/jeneser.github.io/master/assets/images/douban/douban_home.gif" >
-    <img src="https://raw.githubusercontent.com/jeneser/jeneser.github.io/master/assets/images/douban/douban_movie.gif" >
-    <br><br>
-    <strong>......</strong>
-    <br>
-	 <strong><a href="https://jeneser.github.io/douban/">Live Demo</a></strong>
-</p>
 
 
 ## Build Setup
@@ -37,25 +26,6 @@ npm run build
 
 For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
 
-===============测试题目================
-
-## 测试题目 
-
-1. 创建一个新的路由 `ibenchu`
-2. 使用该接口填充数据，数据需要正常展示出来，对样式没有要求 [大陆票房接口](https://mobapi.ibenchu.pw/boxoffice/day/query?key=1eae6b9688738&area=CN)
-3. 在该项目的首页（豆瓣）加上跳转到这个页面的方式（不得使用A标签跳转）
-
-
-## 注意事项
-
-1. 该测试需独立完成。
-2. 面试有可能现场写vue代码，请勿抱有侥幸心态。
-
-**完成后请将源码以 `zip/tar.gz/tar.xz` 形式发送到heshudong@ibenchu.com 【注意附带简历】**
-
-我们将在三个工作日内给出答复
-
-===============测试题目===================
 
 ## 相关技术
 
